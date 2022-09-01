@@ -25,7 +25,7 @@ Certain `Class Feature`s have Active Effects that will be inactive because they 
 
 ![Inactive Effects](https://user-images.githubusercontent.com/31608392/187983020-c349dad1-9270-48e9-95ff-3afbf69fb770.png)
 
-## ***With that being said please note that there is not an easy way to limit the amount of times you can cast a Leveled Power.***
+### ***Please note that there is not an easy way to limit the amount of times you can cast a Leveled Power.***
 You will have to add the Power from the Compendium and when the PC Casts it they will see this box:
 
 ![Slots](https://user-images.githubusercontent.com/31608392/187983507-963052a2-b08b-4834-8299-5dd503d05799.png)
