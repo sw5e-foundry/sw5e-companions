@@ -10,7 +10,9 @@ This module works with the current Player Character sheet to enable player's to 
 
 #### Class and Archetypes
 You will start out by creating a Player Charatcer like normal, however, the ***only*** `Class` for this PC will be `Follower` found in the `Companion Classes` compendium. 
+
 ![Follower](https://user-images.githubusercontent.com/31608392/187972539-f121be85-743d-464d-94eb-4049f9959948.png)
+
 The other entries in this compendium are classified as `Archetypes` of the `Follower` Class. Both the `Archetypes` and the `Class` have the advancement built in to grant the proper `Class Features` at the proper level. 
 ![Advancements](https://user-images.githubusercontent.com/31608392/187973246-d73b5e8c-e559-4332-8b97-cdbd192cc44f.png)
 The `Archetype`s use Active Effects to add the proficiencies granted by such. 
