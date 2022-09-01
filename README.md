@@ -56,6 +56,6 @@ To install and use the SW5E Companion Module for Foundry Virtual Tabletop, simpl
 
 https://github.com/unrealkakeman89/sw5e-companions/releases/latest/download/module.json
 
-If you wish to manually install the system, you must clone or extract it into the `Data/modules/sw5e-companions` folder. You
+If you wish to manually install the module, you must clone or extract it into the `Data/modules/sw5e-companions` folder. You
 may do this by cloning the repository or downloading a zip archive from the
 [Releases Page](https://github.com/unrealkakeman89/sw5e-companions).
