@@ -21,7 +21,8 @@ The `Archetype`s use Active Effects to add the proficiencies granted by such.
 
 ![Active Effects](https://user-images.githubusercontent.com/31608392/187975570-4798bcff-be4d-436c-a3eb-d10b5d5ee9ec.png)
 
-Certain `Class Feature`s have Active Effects that will be inactive because they will be granted at a higher level, such as the number of Superiority DIe that a Scholar can use or how many Force Powers a Consular knows.
+Certain `Class Feature`s have Active Effects that will be inactive because they will be granted at a higher level, such as the number of Superiority DIe that a Scholar can use or how many Force Powers a Consular knows. 
+### *You will have to manually toggle these on as you reach the level the effect is granted*
 
 ![Inactive Effects](https://user-images.githubusercontent.com/31608392/187983020-c349dad1-9270-48e9-95ff-3afbf69fb770.png)
 
