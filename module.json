@@ -10,7 +10,7 @@
         {
             "name": "companion-classes",
             "label": "Companion Classes",
-            "path": ".packs/companion-classes.db",
+            "path": "./packs/companion-classes.db",
             "module": "sw5e-companions",
             "entity": "Item"
         },
