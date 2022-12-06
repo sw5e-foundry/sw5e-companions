@@ -5,7 +5,7 @@
     "author": "Kakeman89",
     "version": "[version]",
     "minimumCoreVersion": "0.5.0",
-    "compatibleCoreVersion": "9",
+    "compatibleCoreVersion": "10",
     "packs": [
         {
             "name": "companion-classes",
