@@ -1,6 +1,6 @@
 # SW5E Companions Module
 ![GitHub Latest Release](https://img.shields.io/github/release/sw5e-foundry/sw5e-companions?style=flat-square)
-![GitHub Downloads Latest](https://img.shields.io/github/downloads/sw5e-foundry/sw5e-companions/latest/sw5e-companions.zip?style=flat-square)
+![GitHub Downloads Latest](https://img.shields.io/github/downloads/sw5e-foundry/sw5e-companions/latest/module.zip?style=flat-square)
 ![License](https://img.shields.io/github/license/sw5e-foundry/sw5e-companions?style=flat-square)
 
 This module works with the current Player Character sheet to enable player's to build and utilize companions from the [Expanded Content](https://sw5e.com/rules/expandedContent/Customization%20Options) of SW5E. 
